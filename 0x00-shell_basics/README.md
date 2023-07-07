@@ -1,1 +1,1 @@
-command to show where you are
+this command shows the list
